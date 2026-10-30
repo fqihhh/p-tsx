@@ -4,10 +4,6 @@
     "app": {
       "root": ".",
       "framework": "vite"
-    },
-    "my-project": {
-      "root": "my-project",
-      "framework": "vite"
     }
   },
   "rewrites": [
